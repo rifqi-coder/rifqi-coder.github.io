@@ -1,0 +1,79 @@
+/*== HEADER ==========================================================*/
+
+.wrap .header {
+	background: #093621;
+    font-family:'Times New Roman', Times, serif;
+    padding: 2px 10px;
+     
+    
+}
+
+
+.header h1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;   
+    text-align: center;
+ }
+ .header p{
+     font-size: 20px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color: #fff;   
+    text-align: center;
+ }
+
+ /*== LOGIN UMUM ===================================================*/
+
+body
+
+    {
+
+        background-image: url("../responsi2/img/logo.png");
+        background-position: center;
+        background-size: 25%;
+
+    }
+
+
+.login
+
+    {
+    background-color: white;
+    width: 380px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 100px;
+    border: 2px solid black;
+    font-size: 18px;
+}
+
+h3
+
+{
+
+background-color: rgb(10, 9, 8);
+text-align: center;
+color: white;
+padding: 10px;
+border-radius: -10px;
+
+}
+
+input
+
+{
+
+    width: 100%;
+    padding: 12px 10px;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+
+ input[type=submit]
+{
+
+    background-color: rgb(20, 9, 167);
+    border-radius:18px;
+    color: white;
+
+}
